@@ -56,8 +56,6 @@ cd Tbomb
 chmod +x TBomb.sh
 ./TBomb.sh
 ```
-## youtube channel <a href="https://www.youtube.com/channel/UCfzFTlm5vHNSrzZFm-At-Yw"> click here</a>
-
 ### > For Linux:
 
 **Notice:** 
